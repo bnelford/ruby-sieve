@@ -1,3 +1,5 @@
+[![Ruby Testing Workflow](https://github.com/bnelford/ruby-sieve/actions/workflows/ruby.yml/badge.svg)](https://github.com/bnelford/ruby-sieve/actions/workflows/ruby.yml)
+
 # Sieve
 
 Use the Sieve of Eratosthenes to find all the primes from 2 up to a given
